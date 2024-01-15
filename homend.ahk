@@ -1,0 +1,2 @@
+﻿#Left::Home
+#Right::End
